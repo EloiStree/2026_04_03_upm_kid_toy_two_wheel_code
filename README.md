@@ -11,7 +11,7 @@ https://github.com/EloiStree/2026_04_03_upm_kid_toy_two_wheel_code.git
 
 **Add in your package.json:**
 ```
-    "be.elab.twowheelscar": "https://github.com/EloiStree/2026_04_03_upm_kid_toy_two_wheel_code.git",
+"be.elab.twowheelscar": "https://github.com/EloiStree/2026_04_03_upm_kid_toy_two_wheel_code.git",
 ```
 
 -----------------------
