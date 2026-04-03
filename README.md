@@ -1,3 +1,16 @@
+
+**Clone in your git project as package**
+```
+git submodule add https://github.com/EloiStree/2026_04_03_upm_kid_toy_two_wheel_code.git Packages/2026_04_03_upm_kid_toy_two_wheel_code
+```
+
+**Add in your package manager:**
+```
+https://github.com/EloiStree/2026_04_03_upm_kid_toy_two_wheel_code.git
+```
+
+-----------------------
+
 # Two Wheel Toy Code
 
 > Just a Unity Code  of a two wheels bot.
