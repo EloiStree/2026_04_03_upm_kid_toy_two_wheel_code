@@ -1,0 +1,31 @@
+{
+  "name": "be.elab.twowheelscar",
+  "displayName": "\ud83e\uddf0,Toy: Two Wheel Car",
+  "version": "2026.4.3",
+  "unity": "2018.1",
+  "description": "Small tool to have a two wheels car in your game.",
+  "keywords": [
+    "Script",
+    "Tool"
+  ],
+  "relatedPackages": {},
+  "samples": [
+    {
+      "displayName": "Demo Scene",
+      "description": "A sample scene that demonstrates the features of this package.",
+      "path": "Scene/Demo"
+    }
+  ],
+  "author": {
+    "name": "Eloi Stree",
+    "mail": "",
+    "url": "https://github.com/EloiStree/"
+  },
+  "repository": {
+    "type": "Git",
+    "url": "https://github.com/EloiStree/2026_04_03_upm_kid_toy_two_wheel_code.git",
+    "footprint": "",
+    "revision": ""
+  },
+  "category": "Script"
+}
